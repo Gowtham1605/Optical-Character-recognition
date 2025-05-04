@@ -58,33 +58,3 @@ Open the notebook using Google Colab (link below), Kaggle, Jupyter notebook/lab 
 |--|--|--|
 |[Go to notebook](./L0_07_Optical_Character_Recognition_OCR/Zero_Optical_Character_Recognition_OCR.ipynb)| [![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L0_07_Optical_Character_Recognition_OCR/notebooks/OCR_Pytesseract.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](#)|
 
-## Contributing
-
-If you want to contribute to this project, you are welcome to do so. You can either add new projects, improve existing ones, or fix bugs and errors. 
-
-Please follow these steps to contribute:
-
-- Fork this repository and clone it to your local machine.
-- Create a new branch with a descriptive name for your contribution.
-- Add your code and files to the branch and commit your changes.
-- Push your branch to your forked repository and create a pull request to the main repository.
-- Wait for your pull request to be reviewed and merged.
-
-## References
-
-HuggingFace
-
-- https://huggingface.co/tasks/image-to-text
-
-Keras: 
-
-- https://github.com/faustomorales/keras-ocr
-- https://keras.io/examples/vision/captcha_ocr/
-- https://www.analyticsvidhya.com/blog/2022/09/extract-text-from-images-quickly-using-keras-ocr-pipeline/
-
-Google - tesseract
-- https://github.com/tesseract-ocr/tesseract
-- https://dev.to/ethand91/simple-text-extraction-using-python-and-tesseract-ocr-3b2b
-
-OCR in age of LMM:
-- [Tradition OCR vs Text Extraction from Image using Google Gemini ](https://medium.com/google-cloud/text-extraction-from-image-using-google-gemini-6b9d9989fa84)
