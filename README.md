@@ -17,7 +17,7 @@ This is an Optical Character Recognition (OCR) projet, a specific type of `Image
 | ocropus/Calamari | Free, open-source OCR with LSTMs | Potentially high accuracy | May be more complex to set up |
 | Amazon Textract | Cloud-based OCR service (AWS) | High accuracy, scalable, pre-built functionalities | Requires paid AWS account |
 | Microsoft Azure Cognitive Services - Computer Vision | Cloud-based OCR solution (Microsoft) | Various features, text extraction, document processing | Requires paid Azure account |
-| Google Cloud Vision API | Cloud-based OCR with image intelligence functionalities | Offered by Google Cloud Platform | Requires paid GCP account |
+| Google Cloud Vision API | Cloud-based OCR with image intelligence functionalities | Offered by Google Cloud Platform | Requires paid GCP account   |
 
 ## Requirements
 
