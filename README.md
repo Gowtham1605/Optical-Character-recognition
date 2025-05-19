@@ -1,4 +1,4 @@
-# L0 - 07: Optical Character Recognition (OCR)
+# Optical Character Recognition (OCR)
 
 ## Overview
 
@@ -38,23 +38,4 @@ This is an Optical Character Recognition (OCR) projet, a specific type of `Image
 - Text extraction and Recognition from images
 
 
-## Pipeline
-
-![](https://i0.wp.com/theailearner.com/wp-content/uploads/2020/12/OCR_pipeline.png?resize=768%2C265&ssl=1)
-(Src: [TheAILearner](https://theailearner.com/2019/05/28/optical-character-recognition-pipeline/))
-
-## Usage
-
-Open the notebook using Google Colab (link below), Kaggle, Jupyter notebook/lab or a similar tool.
-
->[!TIP]
-> Create a new cell and add the following command to download project resources from github to your Colab or Kaggle environment if needed:
-
-```sh
-!wget https://github.com/afondiel/computer-vision-hello-world-challenges/tree/main/06_Zero_Feature_Extraction_Alignment/image_missing_files.png
-```
-
-|Notebook|Colab|Kaggle|
-|--|--|--|
-|[Go to notebook](./L0_07_Optical_Character_Recognition_OCR/Zero_Optical_Character_Recognition_OCR.ipynb)| [![Open notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afondiel/computer-vision-challenge/blob/main/L0_07_Optical_Character_Recognition_OCR/notebooks/OCR_Pytesseract.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](#)|
 
